@@ -13,6 +13,6 @@
    3. Input your token from GitHub and save changes
       
   ---
-  ## Stepe 3 - Create Methods
+  ## Step 3 - Create Methods
   
 
