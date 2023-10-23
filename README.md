@@ -15,5 +15,7 @@
   ---
   ## Step 3 - Create Methods
   [General Git Hub Rest Api docs](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues)
+  ## Get - for get information about issues list <br/>
+  https://api.github.com/repos/      {owner}/{repo}/issue <br/>
   
 
