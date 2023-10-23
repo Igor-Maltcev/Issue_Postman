@@ -3,7 +3,7 @@
 1. Create Api token in yourGitHub profile : <br/>
    Settings -> developer settings -> Personal access token -> Token classics
    2. Turn batton : Generate new token <br/>
-   3. Takea name of key , Assign permission <br/>
+   3. Takea a name of key. Assign permission <br/>
    4. Press Batton : Generate token
   
 
