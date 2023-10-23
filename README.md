@@ -12,5 +12,7 @@
    2. Select : Authorization -> Type -> Bearer Token
    3. Input your token from GitHub and save changes
       
+  ---
+  ## Stepe 3 - Create Methods
   
 
