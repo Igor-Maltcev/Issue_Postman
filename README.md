@@ -28,7 +28,7 @@
         "bug"
         ] <br/>
 - Script for getting issue number : <br/>
-        - var key = "issue_number"
+ var key = "issue_number"
 var value = pm.response.json().number
 
 pm.collectionVariables.set(key,value);
