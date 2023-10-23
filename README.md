@@ -1,5 +1,5 @@
 # How to work:Issue_Postman.
-## Step 1 - generatenew token
+## Step 1 - generate new token
 1. Create Api token in yourGitHub profile : <br/>
    Settings -> developer settings -> Personal access token -> Token classics
    2. Turn batton : Generate new token <br/>
