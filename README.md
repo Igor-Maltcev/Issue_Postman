@@ -26,7 +26,16 @@
     "assignee" : "Igor-Maltcev",
     "labels" : [
         "bug"
-        ]
+        ] <br/>
+        - Script for getting issue number <br/>
+        - var key = "issue_number"
+var value = pm.response.json().number
+
+pm.collectionVariables.set(key,value);
+
+pm.test("status code is 201", function () {
+    pm.response,to.have.status(201);
+});
   
   
 
