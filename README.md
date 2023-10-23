@@ -16,7 +16,7 @@
   ## Step 3 - Create Methods
   [General Git Hub Rest Api docs](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues)
   ## Get - for get information about issues list <br/>
-  https://api.github.com/repos/      {owner}/{repo}/issue <br/>
+  https://api.github.com/repos/      {owner}/{repo}/issue/{isue_namber} <br/>
   ## Post - for create new issues  <br/>
   https://api.github.com/repos/      {owner}/{repo}/issue <br/>
  - Body :<br/>
@@ -35,7 +35,10 @@ pm.collectionVariables.set(key,value);
 
 pm.test("status code is 201", function () {
     pm.response,to.have.status(201);
-});
+}); <br/>
+## Patch - for update issue <br/>
+  https://api.github.com/repos/      {owner}/{repo}/issue/{issue_namber} <br/>
+
   
   
 
