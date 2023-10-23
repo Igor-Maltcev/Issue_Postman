@@ -6,4 +6,11 @@
    3. Takea a name of key. Assign permission <br/>
    4. Press Batton : Generate token
   
+   ---
+   ## Step 2 - Postman
+   1. Create new Postman collection
+   2. Select : Authorization -> Type -> Bearer Token
+   3. Input your token from GitHub and save changes
+      
+  
 
