@@ -4,6 +4,6 @@
    Settings -> developer settings -> Personal access token -> Token classics
    2. Turn batton : Generate new token
    3. Takea name of key , Assign permission
-   4. Press bATON : Generate token
+   4. Press Batton : Generate token
   
 
