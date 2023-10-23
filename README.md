@@ -17,5 +17,16 @@
   [General Git Hub Rest Api docs](https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues)
   ## Get - for get information about issues list <br/>
   https://api.github.com/repos/      {owner}/{repo}/issue <br/>
+  ## Post - for create new issues  <br/>
+  https://api.github.com/repos/      {owner}/{repo}/issue <br/>
+  # Body :  
+  {
+    "title" : "Issue_1",
+    "body" : "Bug Error",
+    "assignee" : "Igor-Maltcev",
+    "labels" : [
+        "bug"
+        ]
+  
   
 
