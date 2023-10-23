@@ -22,7 +22,7 @@
  - Body :<br/>
   {
     "title" : "Issue_1",
-    "body" : "Bug Error",
+    "body" : "Bug Error",<br/>
     "assignee" : "Igor-Maltcev",
     "labels" : [
         "bug"
