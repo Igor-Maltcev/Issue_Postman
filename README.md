@@ -19,7 +19,7 @@
   https://api.github.com/repos/      {owner}/{repo}/issue <br/>
   ## Post - for create new issues  <br/>
   https://api.github.com/repos/      {owner}/{repo}/issue <br/>
- Body :<br/>
+ - Body :<br/>
   {
     "title" : "Issue_1",
     "body" : "Bug Error",
