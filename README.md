@@ -27,7 +27,7 @@
     "labels" : [
         "bug"
         ] <br/>
-        - Script for getting issue number <br/>
+- Script for getting issue number : <br/>
         - var key = "issue_number"
 var value = pm.response.json().number
 
