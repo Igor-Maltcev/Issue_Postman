@@ -41,7 +41,15 @@ pm.test("status code is 201", function () {
 - Body : <br/>
  {
     "title" : "New Name Issue"
+} <br/>
+## Delete(Close) - Since there is no Delete method in the documentation. We use the close method. <br/>
+## Patch - for delete issue <br/>
+ https://api.github.com/repos/      {owner}/{repo}/issue/{issue_namber} <br/>
+- Body : <br/>
+{
+    "state" : "Close"
 }
+
 
   
   
