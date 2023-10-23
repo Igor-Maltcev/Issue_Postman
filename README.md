@@ -38,6 +38,10 @@ pm.test("status code is 201", function () {
 }); <br/>
 ## Patch - for update issue <br/>
   https://api.github.com/repos/      {owner}/{repo}/issue/{issue_namber} <br/>
+- Body : <br/>
+- {
+    "title" : "New Name Issue"
+}
 
   
   
